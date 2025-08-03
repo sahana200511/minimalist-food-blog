@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Routes, Route, useNavigate, useLocation } from 'react-router-dom';
 import Header from './components/header';
-import BlogCard from './components/BlogCard';
+import BlogCard from './components/blogcard';
 import PostDetail from './pages/PostDetail';
 import { initialPosts } from './data/mockdata';
 import { loadPosts, savePosts } from './utils/localstorage';
