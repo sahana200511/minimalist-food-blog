@@ -108,3 +108,9 @@ minimalist-food-blog/
 ├── tailwind.config.js          # Tailwind custom configuration
 ├── vite.config.js              # Vite bundler configuration
 └── README.md                   # Project documentation
+
+
+## Live Demo
+
+Check out the live version here:  
+🔗 [[Minimalist Food Blog on Vercel](https://your-vercel-project-name.vercel.app/](https://minimalist-food-blog-t8es.vercel.app/))
